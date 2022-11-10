@@ -1,13 +1,21 @@
 h1{
-    color: rgb(174, 188, 161);
+    color: #303841;
     text-decoration: underline;
+    font-size: 40;
 }
 body{
-    background-image: linear-gradient(120deg ,rgb(80, 80, 148),rgb(184, 80, 80));
+    background-color: #EEEEEE;
+}
+p{
+    font-size: 25;
+}
+blockquote{
+    font-size: 25;
 }
 .quest{
     padding: 0px 10px;
-    color: aliceblue;
+    color: #3A4750;
+    font-size: 30;
 
 }
 .btn{
